@@ -11,4 +11,6 @@
   * ![plane_concept](images/IMG_1916.jpg)
 - also designed a 3d printed servo mount
   * ![servo_mount](images/IMG_1917.jpg)
+- Next week, I plan on playing around with the micro controller and learning how to program it with a python based library
+- 
 
