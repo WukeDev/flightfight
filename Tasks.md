@@ -1,7 +1,11 @@
 # Sub Tasks
 ## Create a Plane
 - Design in Fusion 360
- * ew
+Plane 1:
+- Stable platform
+- High mounted wing, with low cube loading
+- Able to carry weight
+- 
 ## Make a FlightFight Module
 ### Physical
 - Procure all materials: IR emitter, detector, micro controller, transistors etc.
@@ -37,3 +41,6 @@
   * explore connecting to an Analog OSD and outputting data there (potentially very complex problem)
 
 ## Combine both aspects
+- Keep the module light, so maybe a sub-250g application is possible
+- Keep it universal, for cars, drones, planes
+- 
