@@ -1,11 +1,20 @@
 # Sub Tasks
 ## Create a Plane
 - Design in Fusion 360
+- Manufacture parts from 3D printed materials and Dollar Tree foam board
+- assemble with tape and glue
+- test and fly to find a good center of gravity
+
 Plane 1:
 - Stable platform
-- High mounted wing, with low cube loading
+- High mounted wing, with low wing cube loading(WCL)
 - Able to carry weight
-- 
+- tests whether or not a bigger and theoretically slower model can still perform in combat
+
+Plane 2:
+- Sub 250g
+- Flying wing / plank design
+- testing whether or not a lightweight plane is able to carry the module
 ## Make a FlightFight Module
 ### Physical
 - Procure all materials: IR emitter, detector, micro controller, transistors etc.
@@ -43,4 +52,3 @@ Plane 1:
 ## Combine both aspects
 - Keep the module light, so maybe a sub-250g application is possible
 - Keep it universal, for cars, drones, planes
-- 
