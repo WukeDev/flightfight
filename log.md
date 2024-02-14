@@ -12,5 +12,10 @@
 - also designed a 3d printed servo mount
   * ![servo_mount](images/IMG_1917.jpg)
 - Next week, I plan on playing around with the micro controller and learning how to program it with a python based library
-- 
+
+# Week 4:
+- microcontroller came a bit late and my soldering station is not ready
+- this week, I finished Tasks.md list, with potential for more to be added once details are specified
+- drove to Chicago to pick up parts for the project
+- Next week, I plan to start soldering and making basic programs
 
