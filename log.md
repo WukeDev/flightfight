@@ -17,5 +17,6 @@
 - microcontroller came a bit late and my soldering station is not ready
 - this week, I finished Tasks.md list, with potential for more to be added once details are specified
 - drove to Chicago to pick up parts for the project
-- Next week, I plan to start soldering and making basic programs
+- next week, I plan to start soldering and redoing the designs
+  * the original planned plane design was not viable for stable flight
 
