@@ -19,4 +19,10 @@
 - drove to Chicago to pick up parts for the project
 - next week, I plan to start soldering and redoing the designs
   * the original planned plane design was not viable for stable flight
+ 
+ # Week 5,6:
+ - finished soldering servo pins to board and crimping jumper cables
+ - Goals:
+   * flash the microcontroller with CircuitPython or MicroPython
+   * finish a wiring diagram to connect an LED
 
