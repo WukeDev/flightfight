@@ -26,3 +26,9 @@
    * flash the microcontroller with CircuitPython or MicroPython
    * finish a wiring diagram to connect an LED
 
+# Week 7:
+- finished flashing CircuitPython firmware
+- accomplished basic control of built in LED on board
+- Goals:
+  * process a PWM input and power the board from an RC receiver
+  * toggle the LED based on the PWM input
