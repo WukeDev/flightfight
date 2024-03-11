@@ -32,3 +32,11 @@
 - Goals:
   * process a PWM input and power the board from an RC receiver
   * toggle the LED based on the PWM input
+ 
+# Week 8:
+- finished wiring a circuit that is not connected to a computer
+- finished writing a program that changes light brightness based on a PWM signal
+- procured a perf-board for rapid protyping
+- Goals:
+  * research what IR LED emitter to use (wavelength, beam angle etc.)
+  * find a way to create multiple ground ports and power ports to use for emitter and sensors
